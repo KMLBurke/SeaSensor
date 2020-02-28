@@ -14,3 +14,5 @@ Ocean proof housing allowing for exposure of antenna and temperature sensor. (3d
 
 Additional: Possible way to measure current direction and force.
 3x flow meters or pressure sensors
+
+Collaborators: Abaz Bajrami and Kevin Burke
