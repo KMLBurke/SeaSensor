@@ -1,0 +1,6 @@
+Temperature Sensor - https://www.amazon.co.uk/DS18B20-Waterproof-Temperature-Transducer-Raspberry-Yellow/dp/B01MY9QR49/ref=sr_1_8?keywords=waterproof+temperature+sensor&qid=1583690256&sr=8-8
+Battery - https://www.amazon.co.uk/3-7V-Replacement-Battery-250mAh-BlueParrott/dp/B00IEUMAYM/ref=sr_1_3?crid=3EB909NM2Q2SO&keywords=lithium+polymer+battery&qid=1583688989&sprefix=lithium+poly%2Caps%2C423&sr=8-3
+Gyro + Accelerometer - https://www.amazon.co.uk/Precision-Accelerometer-Inclinometer-Waterproof-Anti-vibration/dp/B07W9LGG39/ref=sr_1_5?keywords=ip67+gyro&qid=1583689783&sr=8-5
+SiPy - https://pycom.io/product/sipy/
+Antenna - https://pycom.io/product/ip67-antenna-cable/
+Waterproof case - https://pycom.io/product/universal-ip67-case/
