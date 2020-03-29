@@ -22,3 +22,10 @@ Additional: Possible way to measure current direction and force.
 3x flow meters or pressure sensors
 
 Collaborators: Abaz Bajrami and Kevin Burke
+
+
+Intermediate Report 1:
+
+Abaz:
+I tried to connect my pycom and sipy boards to my laptop. The board could not be recognized by my laptop or pi.
+Done some research on the different commands and code you can use with sipy and VSCode.
