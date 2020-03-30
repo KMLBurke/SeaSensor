@@ -6,7 +6,7 @@ Enclosure to be attached to marine buoy.
 
 Requirements
 
-LPWAN enabled micrrocontrolled (Pycom SiPy/LoPy)
+LPWAN enabled micrrocontroller (Pycom SiPy/LoPy)
 
 LiPo battery (high capacity)
 
@@ -37,7 +37,7 @@ A Pycom SiPy was decided on as the base for the project, with a PyMakr expansion
 ![SiPy](https://user-images.githubusercontent.com/46967737/77871425-ffe42480-723b-11ea-9451-61c301d8bc15.jpg)
 ![PyMakr](https://user-images.githubusercontent.com/46967737/77871359-c8757800-723b-11ea-8a3e-64505e913547.jpg)
 
-After adding some python code for the boot sequence, along with a main programme, the ID and PAC numbers of the PiPy was obtained. This data was then used to register the device with SigFox.
+After adding some python code for the boot sequence, along with a main programme, the ID and PAC numbers of the SiPy was obtained. This data was then used to register the device with SigFox.
 (see code folder)
 
 
