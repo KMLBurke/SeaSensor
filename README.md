@@ -29,3 +29,10 @@ Intermediate Report 1:
 Abaz:
 I tried to connect my pycom and sipy boards to my laptop. The board could not be recognized by my laptop or pi.
 Done some research on the different commands and code you can use with sipy and VSCode.
+Kevin:
+A Pycom SiPy was decided on as the base for the project, with a PyMakr expansion board to allow us to connect the external sensors(see equipment folder.)
+After adding some python code for the boot sequence, along with a main programme, the ID and PAC numbers of the PiPy was obtained. This data was then used to register the device with SigFox.
+(see code folder)
+
+
+
