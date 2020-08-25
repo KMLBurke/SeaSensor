@@ -40,12 +40,12 @@ A Pycom SiPy was decided on as the base for the project, with a PyMakr expansion
 After adding some python code for the boot sequence, along with a main programme, the ID and PAC numbers of the SiPy was obtained. This data was then used to register the device with SigFox.
 (see code folder)
 
- # Update 25/08/20
+# Update 25/08/20
 
 Due to Covid-19 and other complications such as lack of access to hardware, the initial design had to be rethought. 
 Design and build (as much as possible) a wireless device containing a micro-controller and temperature sensor, suitable for deployment off the wifi grid, in a water rich envirenment.
 
- # Advancements
+# Advancements
 
 Modified the code in main.py to integrate with Sigfox.
 
