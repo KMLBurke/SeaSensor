@@ -41,6 +41,12 @@ After adding some python code for the boot sequence, along with a main programme
 (see code folder)
 
 Update 25/08/20
+
+Modified the code in main.py to integrate with Sigfox
+Further modified this code to send data 10 times, with a 30 second delay.
+![Screenshot_25](https://user-images.githubusercontent.com/46967737/91189383-4d30c900-e6ea-11ea-84f1-88756b0f5e10.png)
+
+
 Successfully recieved a message on SigFox from the SiPy.
 LPWAN connectivity achieved.
 
