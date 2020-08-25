@@ -40,5 +40,8 @@ A Pycom SiPy was decided on as the base for the project, with a PyMakr expansion
 After adding some python code for the boot sequence, along with a main programme, the ID and PAC numbers of the SiPy was obtained. This data was then used to register the device with SigFox.
 (see code folder)
 
+Update 25/08/20
+Successfully recieved a message on SigFox from the SiPy.
+attempted to create a callback to Wia, however loging creditials (the API login and password) are deemed invalid by Wia
 
 
