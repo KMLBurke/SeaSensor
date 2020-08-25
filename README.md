@@ -101,5 +101,5 @@ Additional sensors such as an accelerometer or gyro to expand the usefulness of 
 
 [https://kmlburke.github.io/SeaSensor/](url)
 
-# ThinkSpeak
+# ThingSpeak
 https://thingspeak.com/channels/1123337
