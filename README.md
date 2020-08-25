@@ -59,6 +59,17 @@ Successfully created a callback to ThingSpeak. The 10, 30 second delayed data du
 ![Screenshot_28](https://user-images.githubusercontent.com/46967737/91190491-8ae22180-e6eb-11ea-8454-e2239c97dd72.png)
 
 
+Attaching a DS18B20 via the breakout headers on the Pymakr board allowed temperature to be taken. This was first achieved using a breadboard for temporary testing, followed by soldering the wires, and encasing them in heat shrink. A 3.3v, ground and data pin were used, with a pull up resistor connecting the data line to power also.
+
+![118398475_1085932558529324_8968797473658105095_n](https://user-images.githubusercontent.com/46967737/91221227-44092180-e715-11ea-8836-0d4934abbb50.jpg)
+![118356288_607666843265484_8188685056252506972_n](https://user-images.githubusercontent.com/46967737/91221234-479ca880-e715-11ea-9413-50121ad8f75b.jpg)
+
+
+
+
+The send code was then modified to send this data, rather than generic bytes (See code folder). The data was sucessfully seen on both sigfox and thingspeak.
+
+
 
 
 
