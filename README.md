@@ -79,8 +79,9 @@ The send code was then modified to send this temperature data, rather than gener
 
 The final assemly was then encased in an IP67 waterproof Pycom enclose.
 
-![Screenshot_29](https://user-images.githubusercontent.com/46967737/91224450-05299a80-e71a-11ea-9999-31ad8d5d8795.png)
-![Screenshot_30](https://user-images.githubusercontent.com/46967737/91224452-05c23100-e71a-11ea-9252-69a6762fd2d3.png)
+
+![118316109_246672803106109_6759879579930718185_n](https://user-images.githubusercontent.com/46967737/91225288-479fa700-e71b-11ea-9dcc-a5788cbb8ef1.jpg)
+
 
 
 Additions required
