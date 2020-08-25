@@ -67,8 +67,10 @@ Attaching a DS18B20 via the breakout headers on the Pymakr board allowed tempera
 
 
 
-The send code was then modified to send this data, rather than generic bytes (See code folder). The data was sucessfully seen on both sigfox and thingspeak.
+The send code was then modified to send this temperature data, rather than generic bytes (See code folder). The data was sucessfully seen on both sigfox and thingspeak.
 
+![Screenshot_29](https://user-images.githubusercontent.com/46967737/91224450-05299a80-e71a-11ea-9999-31ad8d5d8795.png)
+![Screenshot_30](https://user-images.githubusercontent.com/46967737/91224452-05c23100-e71a-11ea-9252-69a6762fd2d3.png)
 
 
 
