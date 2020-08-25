@@ -91,3 +91,12 @@ LiPo battery for standalone power, along with a simple on/off switch.
 Waterproofing the holes through which the antenna and temperature sensor enter the enclosure.
 
 Additional sensors such as an accelerometer or gyro to expand the usefulness of the station beyond just sea temperature. 
+
+
+YouTube Demonstration
+
+[https://youtu.be/lzbIaL_26Rc](url)
+
+Website
+
+[https://kmlburke.github.io/SeaSensor/](url)
