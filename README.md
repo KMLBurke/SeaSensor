@@ -4,7 +4,7 @@ Monitoring TBay
 Design and build an ocean proof enclosure housing a microcontroller connected to sensors (temp, accelerometer, Gyro).
 Enclosure to be attached to marine buoy.
 
-Requirements
+# Requirements
 
 LPWAN enabled micrrocontroller (Pycom SiPy/LoPy)
 
@@ -24,7 +24,7 @@ Additional: Possible way to measure current direction and force.
 Collaborators: Abaz Bajrami and Kevin Burke
 
 
-  Intermediate Report 1:
+# Intermediate Report 1:
 
 Abaz:
 I tried to connect my pycom and sipy boards to my laptop. The board could not be recognized by my laptop or pi.
@@ -40,12 +40,12 @@ A Pycom SiPy was decided on as the base for the project, with a PyMakr expansion
 After adding some python code for the boot sequence, along with a main programme, the ID and PAC numbers of the SiPy was obtained. This data was then used to register the device with SigFox.
 (see code folder)
 
-  Update 25/08/20
+ # Update 25/08/20
 
 Due to Covid-19 and other complications such as lack of access to hardware, the initial design had to be rethought. 
 Design and build (as much as possible) a wireless device containing a micro-controller and temperature sensor, suitable for deployment off the wifi grid, in a water rich envirenment.
 
-  Advancements
+ # Advancements
 
 Modified the code in main.py to integrate with Sigfox.
 
@@ -84,7 +84,7 @@ The final assemly was then encased in an IP67 waterproof Pycom enclose.
 
 
 
-Additions required
+# Additions required
 
 LiPo battery for standalone power, along with a simple on/off switch. 
 
@@ -93,10 +93,10 @@ Waterproofing the holes through which the antenna and temperature sensor enter t
 Additional sensors such as an accelerometer or gyro to expand the usefulness of the station beyond just sea temperature. 
 
 
-YouTube Demonstration
+# YouTube Demonstration
 
 [https://youtu.be/lzbIaL_26Rc](url)
 
-Website
+# Website
 
 [https://kmlburke.github.io/SeaSensor/](url)
