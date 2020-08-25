@@ -42,7 +42,8 @@ After adding some python code for the boot sequence, along with a main programme
 
 Update 25/08/20
 
-Modified the code in main.py to integrate with Sigfox
+Modified the code in main.py to integrate with Sigfox.
+
 Further modified this code to send data 10 times, with a 30 second delay.
 ![Screenshot_27](https://user-images.githubusercontent.com/46967737/91189528-70f40f00-e6ea-11ea-85b9-05f77fc355ed.png)
 
